@@ -22,12 +22,15 @@
 
 Завдання 4
 
-У цьому завданні потрібно за допомогою бібліотеки telethon увійти в телеграм аккаунт, вивести учисників будь-якої групи та написати любому контанкту повідомлення.
-На цьому рисунку бачимо повідомлення
+У цьому завданні потрібно за допомогою бібліотеки telethon увійти в телеграм аккаунт,
+вивести учисників будь-якої групи та написати любому контанкту повідомлення.
+На цьому рисунку бачимо повідомленняю.
 
 <img width="463" height="67" alt="image" src="https://github.com/user-attachments/assets/a1700d2d-2177-4c13-86f5-d52b49296baf" />
 
+
 А на цих рисунках бачимо реальну группу та список учасників. 
 
-<img width="459" height="76" alt="image" src="https://github.com/user-attachments/assets/3f41b51c-f3fc-4e2e-a6ee-63f3bbd8d0bc" />   <img width="856" height="659" alt="image" src="https://github.com/user-attachments/assets/e4b6661b-f7d1-4a9f-aca2-87a5fa79f7cf" />
+<img width="459" height="76" alt="image" src="https://github.com/user-attachments/assets/3f41b51c-f3fc-4e2e-a6ee-63f3bbd8d0bc" />   
+<img width="856" height="659" alt="image" src="https://github.com/user-attachments/assets/e4b6661b-f7d1-4a9f-aca2-87a5fa79f7cf" />
 

@@ -1,9 +1,9 @@
 from telethon import TelegramClient
 from prettytable import PrettyTable
 
-api_id = ******** # Вписуємо свій ID
-api_hash = "c2ae......c" #Вписуємо свій хещ
-phone = "+380996506061" #Вписуємо свій номер телефону
+api_id = 11111111
+api_hash = "c2a.......5ac"
+phone = "+380996506061"
 
 client = TelegramClient("lab1_session", api_id, api_hash)
 
@@ -27,9 +27,8 @@ async def main():
 
     print(table)
 
-    await client.send_message(" ", "test test test ") #У лапках вписуємо ім'я користувача
+    await client.send_message("@minonskyy", "test test test ")
     print("\nMessage sent!")
 
 with client:
     client.loop.run_until_complete(main())
-
